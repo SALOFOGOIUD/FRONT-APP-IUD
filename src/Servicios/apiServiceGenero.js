@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:4000/api/genres";
+const API_URL = "https://api-rest-iud.onrender.com/api/genres";
 
 /**
  * Obtener todos los generos desde la API.
