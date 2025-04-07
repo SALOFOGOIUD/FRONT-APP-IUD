@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:4000/api/types";
+const API_URL = "https://api-rest-iud.onrender.com/api/types";
 
 /**
  * Obtener todos los tipos desde la API.
