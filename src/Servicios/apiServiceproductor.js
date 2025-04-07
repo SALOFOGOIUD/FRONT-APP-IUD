@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:4000/api/producers";
+const API_URL = "https://api-rest-iud.onrender.com/api/producers";
 
 /**
  * Obtener todos los productores desde la API.
