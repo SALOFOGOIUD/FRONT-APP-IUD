@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:4000/api/directors";
+const API_URL = "https://api-rest-iud.onrender.com/api/directors";
 
 /**
  * Obtener todos los directores desde la API.
