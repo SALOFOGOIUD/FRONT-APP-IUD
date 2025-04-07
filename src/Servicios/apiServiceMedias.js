@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:4000/api/medias";
+const API_URL = "https://api-rest-iud.onrender.com/api/medias";
 
 /**
  * Obtener todos los medios desde la API.
